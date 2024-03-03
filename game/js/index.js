@@ -5,7 +5,7 @@ import * as vars from './variables.js'
 var stage = vars.stage
 var turn = vars.turn
 var board = vars.board
-var skipSetup = true
+var skipSetup = false
 var testingMovement = false
 
 const logging = () => {
